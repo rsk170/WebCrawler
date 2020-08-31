@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "izGz/n+PpgnrYxljik6qbypx94pPmcfc9ogJcjXzqvHYCEko/qrkecMLkArXYIOtgGEbTFi2ja1mdE2a3dtJ2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rkisleva\\source\\repos\\WebCrawler\\WebCrawler\\WebCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rkisleva\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}
